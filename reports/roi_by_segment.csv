@@ -1,0 +1,9 @@
+segment,group,customers,avg_campaign_revenue,total_campaign_revenue,avg_incremental_revenue,conversions
+At Risk,Control,531,512.87,272332.96,-1.01,142
+At Risk,Treatment,538,626.2,336898.08,89.63,0
+High Value,Control,296,7339.71,2172554.85,-9.83,83
+High Value,Treatment,302,7450.81,2250146.01,1050.31,0
+Loyal,Control,860,1819.42,1564700.32,-0.56,200
+Loyal,Treatment,910,2211.58,2012534.26,312.09,0
+Occasional,Control,1157,369.74,427791.12,0.24,297
+Occasional,Treatment,1082,444.29,480724.67,62.33,0

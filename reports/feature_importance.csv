@@ -1,0 +1,10 @@
+feature,importance
+retention_rate,0.8121925168772218
+recency,0.7145243778125558
+customer_lifetime_value,0.1534360833981098
+annual_purchase_frequency,0.10095458298447883
+purchase_frequency,0.10095458298447667
+predicted_clv,0.08247064082192672
+customer_lifespan,0.04811576166902303
+total_spend,0.01633070423956489
+average_order_value,0.008058569367579321

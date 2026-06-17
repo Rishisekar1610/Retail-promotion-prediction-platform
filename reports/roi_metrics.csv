@@ -1,0 +1,2 @@
+campaign_id,offer_cost_per_customer,control_customers,treatment_customers,control_conversions,treatment_conversions,control_revenue,treatment_revenue,control_baseline_revenue,treatment_baseline_revenue,incremental_revenue,campaign_cost,incremental_profit,roi_percent,roas,cost_per_acquisition,control_revenue_per_customer,treatment_revenue_per_customer
+PROMO_001,3.0,2844,2832,722,0,4437379.25,5080303.02,4441017.64,4363447.78,716855.25,8496.0,708359.25,8337.56,597.96,0,1560.26,1793.89

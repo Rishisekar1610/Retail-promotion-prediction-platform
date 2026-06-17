@@ -1,0 +1,6 @@
+feature,importance,business_interpretation
+retention_rate,0.8122,retention_rate is one of the strongest drivers of offer redemption probability in the trained model.
+recency,0.7145,recency is one of the strongest drivers of offer redemption probability in the trained model.
+customer_lifetime_value,0.1534,customer_lifetime_value is one of the strongest drivers of offer redemption probability in the trained model.
+annual_purchase_frequency,0.101,annual_purchase_frequency is one of the strongest drivers of offer redemption probability in the trained model.
+purchase_frequency,0.101,purchase_frequency is one of the strongest drivers of offer redemption probability in the trained model.

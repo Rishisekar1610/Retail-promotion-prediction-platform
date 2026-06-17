@@ -1,0 +1,2 @@
+campaign_id,control_customers,treatment_customers,control_conversions,treatment_conversions,control_rate,treatment_rate,absolute_lift,relative_lift_percent,z_statistic,z_test_p_value,chi_square,chi_square_p,lower_ci,upper_ci,statistically_significant
+PROMO_001,2844,2832,722,0,0.2539,0.0,-0.2539,-100.0,-28.7008,0.0,821.4494,0.0,-0.2699,-0.2379,True

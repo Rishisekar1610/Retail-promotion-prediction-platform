@@ -1,0 +1,10 @@
+feature,psi,status
+total_spend,0.0112,Stable
+purchase_frequency,0.0131,Stable
+customer_lifetime_value,0.0,Stable
+recency,0.0,Stable
+retention_rate,0.0,Stable
+annual_purchase_frequency,0.0,Stable
+average_order_value,0.0246,Stable
+customer_lifespan,0.0,Stable
+predicted_clv,0.0035,Stable

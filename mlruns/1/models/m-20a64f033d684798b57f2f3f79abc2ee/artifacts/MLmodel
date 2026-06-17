@@ -1,0 +1,22 @@
+artifact_path: file:C:/Users/Rishi Sekar/Downloads/Retail Promo Prediction/mlruns/1/models/m-20a64f033d684798b57f2f3f79abc2ee/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.5
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.2.0
+mlflow_version: 3.14.0
+model_id: m-20a64f033d684798b57f2f3f79abc2ee
+model_size_bytes: 455066
+model_uuid: m-20a64f033d684798b57f2f3f79abc2ee
+prompts: null
+run_id: 87c4410c11ff4180a380ad89225fc128
+utc_time_created: '2026-06-17 16:24:16.940861'

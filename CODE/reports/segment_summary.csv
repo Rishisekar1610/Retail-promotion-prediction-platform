@@ -1,0 +1,5 @@
+segment,customers,avg_spend,avg_frequency,avg_clv,avg_rfm_score
+At Risk,1069,525.3,2.53,10.07,6.32
+High Value,598,6870.26,24.58,217.98,11.45
+Loyal,1770,1860.85,6.84,72.55,9.56
+Occasional,2239,375.52,1.67,18.96,5.38

@@ -31,8 +31,7 @@ logger = logging.getLogger(__name__)
 BASE_DIR = Path(__file__).resolve().parents[1]
 
 load_dotenv(BASE_DIR / ".env")
-
-DATABASE_URL = "postgresql://postgres.hlxxjzstmgozujarbbxk:6vCCLI04X7k52GF0@aws-1-us-east-1.pooler.supabase.com:5432/postgres"
+DATABASE_URL = os.getenv("SUPABASE_DB_URL")
 
 if not DATABASE_URL:
     raise RuntimeError("SUPABASE_DB_URL not found in .env file.")

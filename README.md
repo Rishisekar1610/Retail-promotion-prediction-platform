@@ -396,26 +396,6 @@ streamlit run streamlit_dashboard.py
 
 ---
 
-## ✅ Coverage vs. Ibotta JD Requirements
-
-| Requirement | Implementation |
-|-------------|----------------|
-| Analyze consumer behavior | RFM analysis, basket size, seasonal trends, Plotly dashboards |
-| Inform experimental design | t-test, chi-square, lift %, confidence intervals, power curves |
-| Build ML & statistical models | Logistic Regression, Random Forest, XGBoost, AUC metrics |
-| Prepare models for production + monitoring | FastAPI endpoint, MLflow model registry, PSI + AUC drift alerts |
-| PySpark / distributed data systems | PySpark loading, cleaning, RFM aggregation |
-| Database manipulation + query languages | PostgreSQL schema, SQLAlchemy ORM, documented SQL queries |
-| Data storytelling | Executive dashboard with narrative insights + recommendations |
-| Stakeholder collaboration & data cleansing | Structured cleansing log with decision rationale per step |
-| Model performance monitoring over time | Continuous AUC tracking, PSI per feature, automated alerting |
-| Graph data schemas | Explicit node/edge schema (Customer, Invoice, Product, Promotion) |
-| Docker containerization | Dockerfile + docker-compose for full stack |
-| Data streams and pipelines | Real-time Kafka-style event stream simulation + scoring |
-| ROI measurement per promotion | Full cost-revenue formula: Net Profit, ROI %, ROAS, break-even rate |
-
----
-
 ## 👨‍💻 Author
 
 **Rishi Gnanasekar**
